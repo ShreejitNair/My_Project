@@ -1,0 +1,8 @@
+E:\ShreejitConsoleApp\ShreejitConsoleApp\bin\Debug\ShreejitConsoleApp.exe.config
+E:\ShreejitConsoleApp\ShreejitConsoleApp\bin\Debug\ShreejitConsoleApp.exe
+E:\ShreejitConsoleApp\ShreejitConsoleApp\bin\Debug\ShreejitConsoleApp.pdb
+E:\ShreejitConsoleApp\ShreejitConsoleApp\obj\Debug\ShreejitConsoleApp.csproj.AssemblyReference.cache
+E:\ShreejitConsoleApp\ShreejitConsoleApp\obj\Debug\ShreejitConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\ShreejitConsoleApp\ShreejitConsoleApp\obj\Debug\ShreejitConsoleApp.csproj.CoreCompileInputs.cache
+E:\ShreejitConsoleApp\ShreejitConsoleApp\obj\Debug\ShreejitConsoleApp.exe
+E:\ShreejitConsoleApp\ShreejitConsoleApp\obj\Debug\ShreejitConsoleApp.pdb
